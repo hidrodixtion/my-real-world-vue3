@@ -10,7 +10,7 @@ import { defineComponent } from "vue";
 import EventCard from "@/components/EventCard.vue"; // @ is an alias to /src
 
 export default defineComponent({
-  name: "Home",
+  name: "EventList",
   components: {
     EventCard,
   },
